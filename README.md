@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of hamcq/flaurm-ext-ip.** Not for installation: use [Packagist](https://packagist.org/packages/hamcq/flaurm-ext-ip) or the [upstream repository](https://github.com/HamCQ/flarum-ext-ip-addr).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/hamcq-flaurm-ext-ip/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/hamcq-flaurm-ext-ip/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-03-27 | `^1.2.0` | [Browse](https://github.com/flarchive/hamcq-flaurm-ext-ip/tree/archive/v1.0.0) |
+| `1.0.1` | 2023-10-28 | `^1.2.0` | [Browse](https://github.com/flarchive/hamcq-flaurm-ext-ip/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/hamcq-flaurm-ext-ip.json](https://github.com/flarchive/archive-index/blob/main/packages/hamcq-flaurm-ext-ip.json)
 
